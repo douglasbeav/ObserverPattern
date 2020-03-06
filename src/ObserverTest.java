@@ -41,6 +41,7 @@ public class ObserverTest {
         // make main window
         ObserverTest obsAnv = new ObserverTest();
         System.out.println("Hello");
+        System.out.println("Hahahahaha");
     }
 }
 
